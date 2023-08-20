@@ -1,0 +1,8 @@
+{
+	"dependencies": {
+		"react": "^18.2.0"
+	},
+	"devDependencies": {
+		"react-cli": "^0.3.1"
+	}
+}

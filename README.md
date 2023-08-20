@@ -1,6 +1,11 @@
 # Google Drive "Shared Drive" Migration Tool
 
-Move only files you own into and out of a Google Drive "Shared Drive" without losing directory structure.
+Use Google Drive 'Shared Drives' to migrate files into an organization without losing folder structure.
+
+This app moves only files you own into a Google Drive "Shared Drive" and keeps
+track of their original locations. Then you can run this tool again under
+another user to move those files back to their original locations with a new
+owner.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

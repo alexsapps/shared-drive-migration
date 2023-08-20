@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Shared Drive Migration Tool",
+  "name": "Shared Drive Migration Tool for Google Drive",
   "icons": [
     {
       "src": "favicon.ico",
